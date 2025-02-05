@@ -9,7 +9,7 @@ Sou químico de formação, mas atualmente estou explorando e me especializando 
 - Machine Learning
 - Análise de Dados
 - Visualização de Dados
-- Processamento de Linguagem Natural (NLP)
+- Rede Neurais/Deep Learning
 
 📫 Entre em contato: 
 
